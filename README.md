@@ -1,2 +1,2 @@
 # afteroundone
-This is a python code that acts a bot to play the Nigerian After Round One game with . 
+A Python script for playing the Nigerian After Round One game. It's a simple and easy-to-use script that simulates playing the After Roundone game with a bot. 
